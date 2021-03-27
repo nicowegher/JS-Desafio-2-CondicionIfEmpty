@@ -9,9 +9,10 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #000;
+    background-size: cover;
 }
 
-#fullName {
+#sobreNombre {
     color: #9fd356;
 }
 
