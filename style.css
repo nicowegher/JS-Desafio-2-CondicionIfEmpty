@@ -1,0 +1,28 @@
+body {
+    color: #fafffd;
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20%;
+    margin-left: 10%;
+    background-image: url(images/four.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #000;
+}
+
+#fullName {
+    color: #9fd356;
+}
+
+p {
+    font-style: italic ;
+}
+
+.emoji {
+    font-size: 100px;
+}
+
+h1 {
+    font-size: 5em;
+}
